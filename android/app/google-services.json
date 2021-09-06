@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "737947552453",
+    "firebase_url": "https://radauon-2e485.firebaseio.com",
+    "project_id": "radauon-2e485",
+    "storage_bucket": "radauon-2e485.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737947552453:android:e4ef956fc12fbd9b34feac",
+        "android_client_info": {
+          "package_name": "com.radauon.radauon2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "737947552453-a5068v3karhju3aka4dp0btk2sfmrvvt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.radauon.radauon2",
+            "certificate_hash": "5152bc2d3b3e181681d3a967d0c046a5f8dae7ed"
+          }
+        },
+        {
+          "client_id": "737947552453-5scfetvi1dnq3hmh5mbkos625ku6jedi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDa0d8A1ADmAJ0WBhQhiDGdSI0lGdCPc4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "737947552453-5scfetvi1dnq3hmh5mbkos625ku6jedi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
